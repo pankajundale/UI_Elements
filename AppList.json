@@ -1,10 +1,12 @@
 [
   {
     "appTemplate" : "webapp",
+    "description" : "UIElement",
     "displayName" : "UIElement",
     "htmlHeadTitle" : "UIElement",
+    "keywords" : "UIElement",
     "linkedApp" : "shared",
-    "multiBranch" : false,
+    "multiBranch" : true,
     "name" : "UIElement",
     "requiredRoles" : "none",
     "trilloVersion" : "2.0",
