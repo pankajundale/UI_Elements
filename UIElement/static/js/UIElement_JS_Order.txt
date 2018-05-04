@@ -1,0 +1,5 @@
+shared/static/js/shared_ns.js
+shared/static/js/appC.js
+static/js/UIElement_ns.js
+static/js/test2.js
+static/js/test.js
