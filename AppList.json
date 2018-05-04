@@ -1,0 +1,16 @@
+[
+  {
+    "appTemplate" : "webapp",
+    "displayName" : "UIElement",
+    "htmlHeadTitle" : "UIElement",
+    "linkedApp" : "shared",
+    "multiBranch" : false,
+    "name" : "UIElement",
+    "requiredRoles" : "none",
+    "trilloVersion" : "2.0",
+    "useTestData" : true,
+    "usingEnumsCatalog" : true,
+    "usingStringFiles" : true,
+    "usingViewSpecs" : true
+  }
+]
